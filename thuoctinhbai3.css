@@ -1,0 +1,68 @@
+.maunen{
+    background-color: #E69292;
+    color:white;
+    height:5px;
+}
+.maunen2{
+    background-color: #E69292;
+    color:#681016;
+    letter-spacing: 15px;
+    width:60%;
+    height:35px;
+    margin-left:70px;
+    margin-right: 50px;
+    padding-left: 20px;
+
+}
+.maunen3{
+    background-color: black;
+    color:white;
+    vertical-align: top;
+}
+u{
+    color:red;
+}
+textarea{
+    width:100%;
+    height:80px;
+    padding: 6px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.botron{
+    border-radius: 9999px;
+    margin-bottom: 7px;
+    background-color: #E69292;
+    color:white;
+    padding:8px 12px;
+}
+.anh{
+    width:100%;
+    border-radius: 50%;
+    box-shadow: 0 8px 15px rgba(230, 146,146,0.6);
+    margin-top: 10px;
+}
+.anh2{
+    width:100%
+}
+input[type="text"]{
+    padding:5px;
+    box-sizing: border-box;
+}
+h1{
+    color:#681016;
+    text-align: center;
+    margin:10px 0;
+    text-shadow: 8px 9px 2px #E69292;
+}
+.kichthuoco{
+    width:100%;
+    height:50px;
+}
+.khoangcach{
+    padding:10px;
+}
+span{
+    padding-left: 10px;
+    padding-right: 10px;
+}
